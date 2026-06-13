@@ -202,14 +202,3 @@ This TIP is one component of the full **ThreatLens Security Automation Pipeline*
 8. Report        → Google Sheets Audit Log
 ```
 
----
-
-## 👥 Team
-
-**ThreatLens** — University Security Automation Project
-
----
-
-## 📄 License
-
-MIT License — Free to use and modify.
